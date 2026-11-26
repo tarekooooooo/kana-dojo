@@ -317,5 +317,16 @@
       "Mount Tate"
     ],
     "correctIndex": 1
-  }
+  },
+    {
+          "question": "Which Japanese city is famous for its snow festival featuring ice sculptures? (Community variation 18)",
+          "difficulty": "medium",
+          "answers": [
+                  "Sapporo",
+                  "Sendai",
+                  "Fukuoka",
+                  "Okayama"
+          ],
+          "correctIndex": 0
+    }
 ]
